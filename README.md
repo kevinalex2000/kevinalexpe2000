@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on a CRM project<br>👯 I'm looking to collaborate with other developers<br>🌱 I am currently learning Azure<br>💬 Ask me about web development<br>⚡ Fun fact: The first emoticon was created in 1982: :-)
+🔭 I am currently working on a Marketplace project<br>👯 I'm looking to collaborate with other developers<br>🌱 I am currently learning Azure<br>💬 Ask me about web development<br>⚡ Fun fact: The first emoticon was created in 1982: :-)
 
 
 ## 🌐 Socials:
